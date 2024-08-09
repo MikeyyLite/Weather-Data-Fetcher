@@ -27,7 +27,7 @@ The following tools were used to build this python script
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/MikeyyLite/weather-data-fetcher.git
+   git clone https://github.com/MikeyyLite/Weather-Data-Fetcher.git
    cd weather-data-fetcher
 
 2. **Set up your own API Key**
