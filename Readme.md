@@ -81,9 +81,9 @@ Make sure you have Python installed. Install the required package by running:
     Latitude: 40.7128  
     Longitude: -74.0060  
     Temperature: 20.5 °C  
-    Weather:*clear sky  
-    Humidity:*60%  
-    Wind Speed:*3.1 m/s  
+    Weather:clear sky  
+    Humidity:60%  
+    Wind Speed:3.1 m/s  
 
     -----------------------------------
     Do you wish to continue? Y/N :
